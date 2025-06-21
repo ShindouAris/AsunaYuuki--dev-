@@ -1,0 +1,19 @@
+{
+  "playing": "Đang phát",
+  "end": "Kết thúc sau <t:{time}:R> ({length})\n",
+  "streaming": "Trực tiếp\n",
+  "paused": "Tạm dừng",
+  "paused_time": "Tạm dừng\n",
+  "channel": "Kênh thoại: {channel}\n",
+  "volume": "Âm lượng: {vol}%\n",
+  "discord_latency": "> <a:emoji_1:1373633018589085827> • Độ trễ đến máy chủ discord `{endpoint}`: {ping}ms\n",
+  "nightcore_enabled": "> \uD83C\uDDF3 • Đang bật nightcore \n",
+  "queue_next_track": "> ♾️ • Các bài hát còn lại trong hàng đợi: {track_left}\n",
+  "queue_loop_song": "> \uD83D\uDD02 • Đang phát lặp lại bài hát: {name}\n",
+  "queue_loop_playlist": "> \uD83D\uDD01 • Đang phát lặp lại hàng đợi\n",
+  "is_autoplay_mode": "> ♻️ • Chế độ tự động thêm bài hát: `Bật`\n",
+  "keep_connection": "> 📼 • Chế độ phát liên tục: `Bật`\n",
+  "music_server": "> 💻 • Máy chủ âm nhạc hiện tại: {host}\n",
+  "shuffle": "> <:emoji_19:1347806374536675338> • Trộn bài hát `bật`",
+  "author": "Tác giả: {name}\n"
+}

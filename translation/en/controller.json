@@ -1,0 +1,19 @@
+{
+  "playing": "Playing",
+  "end": "Ends in <t:{time}:R> ({length})\n",
+  "streaming": "Live\n",
+  "paused": "Paused",
+  "paused_time": "Tạm dừng\n",
+  "channel": "Voice channel: {channel}\n",
+  "volume": "Volume: {vol}%\n",
+  "discord_latency": "> <a:hana_loading:1336043612282028143> • Latency to Discord server `{endpoint}`: {ping}ms\n",
+  "nightcore_enabled": "> \uD83C\uDDF3 • Nightcore enabled \n",
+  "queue_next_track": "> <a:seele_che:1336043722475049015> • Remaining songs in queue: {track_left}\n",
+  "queue_loop_song": "> <a:ganzurunray:1336043408892104776> • Repeating song: {name}\n",
+  "queue_loop_playlist": "> <a:hifumi_shake_head_2:1336043570548838482> • Repeating playlist\n",
+  "is_autoplay_mode": "> <a:seele_:1336043763012735146> • Autoplay mode: `Enabled`\n",
+  "keep_connection": "> <a:furina_patpat:1336043257397907469> • Keep playing mode: `Enabled`\n",
+  "music_server": "> <a:mobius_heart_eyes:1336043682092154931> • Current music server: {host}\n",
+  "shuffle": "> <a:z41_approvedcheckblack:1292877910063190167> • Shuffle on\n",
+  "author": "Author: {name}\n"
+}
