@@ -8,7 +8,7 @@ class Bank(commands.Cog):
     def __init__(self, bot: ClientUser):
         self.bot: ClientUser = bot
         self.accounts = {
-                "ngan_hang": "MB Bank <:emoji_48:1382077487609282720>",
+                "ngan_hang": "MB Bank",
                 "so_tai_khoan": "9990328421004",
                 "chu_tai_khoan": "NGUYEN ANH NHAT",
                 "qr_data": "https://cdn.discordapp.com/attachments/1370732207177596989/1385459230085222592/IMG_20250620_101524.jpg?ex=685624f5&is=6854d375&hm=8ac93d4ebd77c6816d8aee6074b270786f2d7cad22e6cabebca23c0083cd8047&"
