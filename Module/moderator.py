@@ -49,7 +49,7 @@ class Moderator(commands.Cog):
                 await interaction.response.send_message("Thời gian vô hiệu hóa kĩ thuật nói không hợp lệ. Vui lòng sử dụng định dạng hợp lệ (vd: 1d2h3m4s).", ephemeral=True)
                 return
             await member.timeout(duration=duration["tm"], reason=reason)
-            await interaction.response.send_message(f"Đã vô hiệu hóa kĩ thuật nói của {member.mention} trong {duration} giây.", ephemeral=True)
+            await interaction.response.send_message(f"Đã vô hiệu hóa kĩ thuật nói của {member.mention} trong {duration["tm"]} giây.", ephemeral=True)
         
         
         except disnake.Forbidden:
